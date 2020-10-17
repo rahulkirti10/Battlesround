@@ -1,0 +1,107 @@
+.success
+{
+    background-color: white;
+    height: 400px;
+    width: 800px;
+    border-radius: 20px;
+}
+.success-tick
+{
+    color:green;
+    position:relative;
+    right:-40%;
+    top:2%;
+    font-size:100px;
+}
+.success-payment
+{
+    color:green;
+    font-size:40px;
+    position: relative;
+    top:-45%;
+    left:-22%;
+    font-family: sans-serif;
+}
+.success-payment1
+{
+   color:black;
+    font-size:25px;
+    position: relative;
+    top:-45%;
+    left:-8%;
+    font-family: sans-serif; 
+}
+.success-payment2
+{
+  color:black;
+    font-size:25px;
+    position: relative;
+    top:-45%;
+    left:-25%;
+    font-family: sans-serif;   
+}
+.success-payment2 a
+{
+    color:blue;
+    text-decoration: none;
+}
+.success-img
+{
+    height:80px;
+    width:300px;
+    position: relative;
+    top:-110px;;
+    left:-220px;
+}
+.unsuccess-tick
+{
+ color:red;
+    position:relative;
+    right:-40%;
+    top:2%;
+    font-size:100px;
+}
+.unsuccess-payment
+{
+    color:green;
+    font-size:40px;
+    position: relative;
+    top:-45%;
+    left:-21%;
+    font-family: sans-serif;
+}
+.unsuccess-payment1
+{
+   color:black;
+    font-size:20px;
+    position: relative;
+    top:-45%;
+    left:0;
+    font-family: sans-serif; 
+    width:792px;
+}
+.unsuccess-payment2
+{
+  color:black;
+    font-size:25px;
+    position: relative;
+    top:-45%;
+    left:-25%;
+    font-family: sans-serif;   
+}
+.unsuccess-img
+{
+    height:80px;
+    width:300px;
+    position: relative;
+    top:-200px;;
+    left:-220px;
+}
+
+
+
+
+
+
+
+

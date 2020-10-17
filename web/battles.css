@@ -1,0 +1,377 @@
+.battles
+{
+    background-color: white;
+    height:400px;
+    width:350px;
+    position:relative;
+    border-radius: 20px;
+    top:50px;
+    left:8%;
+    float:left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.underline
+{
+    width:190px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    top:155px;
+    left:42.5%;
+    opacity: 0.5;
+}
+.underline-ongoing
+{
+    width:190px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    top:155px;
+    left:23%;
+    opacity: 0.5;
+}
+.underline-result
+{
+    width:190px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    top:155px;
+    left:62%;
+    opacity: 0.5;
+}
+.battles-nav
+{
+    width:100%;
+    height:60px;
+    background-color: black;
+    opacity: 0.5;
+}
+.battles-href
+{
+    color:white;
+    font-size:25px;
+    text-decoration: none;
+    padding:18px 100px 12px 50px;
+    opacity: 0.8;
+}
+.battles-href:hover
+{
+    background-color:grey;
+}
+.battlesline
+{
+    background-color:black;
+    height:250px;
+    width:399px;
+    position:relative;
+    border-radius: 20px;
+    top:50px;
+    left:8%;
+    float:left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.battles-images
+{
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    height: 160px;
+    width: 350px;
+    
+}
+.battlesline-images
+{
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    height: 200px;
+    width: 400px;
+    
+}
+.type
+{
+    color:white;
+    font-size:18px;
+    position: absolute;
+    font-family: sans-serif;
+    top:30%;
+    right:2%;
+}
+.map
+{
+  color:white;
+    font-size:18px;
+    position: absolute;
+    font-family: sans-serif;
+    top:30%;
+    left:2%;  
+}
+.tpp{
+    color:white;
+    font-size:18px;
+    position: absolute;
+    font-family: sans-serif;
+    top:30%;
+    left:46%;   
+}
+.time
+{
+    color:white;
+    font-size:16px;
+    position: absolute;
+    font-family: sans-serif;
+    top:-3%;
+    right:2%;   
+}
+.match
+{
+    color:white;
+    font-size:16px;
+    position: absolute;
+    font-family: sans-serif;
+    top:-3%;
+    left:2%;   
+}
+.b-match
+{
+     color:Black;
+    font-size:16px;
+    position: absolute;
+    font-family: sans-serif;
+    top:40%;
+    left:2%;  
+}
+.b-left
+{
+       color:Black;
+    font-size:13px;
+    position: absolute;
+    font-family: sans-serif;
+    top:40%;
+right:2%;
+}
+.b-left1
+{
+       color:Black;
+    font-size:50px;
+    position: absolute;
+    font-family: sans-serif;
+    top:40%;
+right:2%;
+}
+.register
+{
+    background-color:#21618c;
+    border:none;
+    height:40px;
+    width:180px;
+    color:white;
+    font-size:20px;
+    position: absolute;
+    bottom:5%;left:24%;
+}
+.battlesline-register
+{
+    background-color:#21618c;
+    border:none;
+    height:50px;
+    width:399px;
+    color:white;
+    font-size:25px;
+    position: absolute;
+    bottom:0;left:0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.battlesline-register:hover
+{ color:yellow
+}
+.register:hover{
+ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ background-color: black;
+}
+.fees
+{
+    color:Black;
+    font-size: 20px;
+    font-family: sans-serif;
+    position: absolute;
+    bottom:15%;
+    left:30%;
+}
+.battles-details{
+    background-color:black;
+    height:270px;
+    width:800px;
+    position:relative;
+    margin-top:80px;
+    left: 23%;
+}
+.battles-details-images
+{
+    height:270px;
+    width:800px;  
+}
+.details
+{
+   background-color:black;
+    height:900px;
+    width:800px;
+    position:relative;
+    opacity: 0.5;
+    margin-top: -4px;
+    text-align: left;
+}
+.name
+{
+  color:white;
+    font-size:18px;
+    position: absolute;
+    font-family: sans-serif;
+    top:15%;
+    right:33%;   
+}
+.coins
+{
+    height:18px;
+    width:18px;
+    border-radius: 30px;
+    position: absolute;
+    
+}
+.battlesline-type
+{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    top:75%;
+    left:2%;
+    font-family: sans-serif;
+}
+.battlesline-id
+{
+    font-size: 30px;
+    color:#21618c;
+     font-family: sans-serif;
+}
+
+.all-details
+{
+    position: absolute;
+    top:100%;
+    left:2%;
+    color:white;
+    font-family: sans-serif;
+    text-align: left;
+}
+.join
+{
+  background-color:#21618c;
+    border:none;
+    height:40px;
+    width:250px;
+    color:white;
+    font-size:20px;
+    position: absolute;
+    right:5%;  
+    top:350px;
+}
+.join:hover
+{
+    background-color:grey; 
+}
+.purchase
+{
+background-color: white;
+height:500px;
+width:500px;
+border-radius: 20px;
+
+}
+.purchase1
+{
+    font-size:25px;
+    font-family: sans-serif;
+}
+.buy
+{
+   background-color:#21618c;
+    border:none;
+    height:40px;
+    width:200px;
+    color:white;
+    font-size:18px;  
+}
+.buy:hover
+{
+    background-color: black;
+}
+.profiletab
+{
+   background: linear-gradient(to top left, #0099ff 0%, #00cc66 100%);
+        height:650px;
+        width:40%; 
+       border-radius: 20px;
+        box-shadow: 5px 10px 18px black;
+}
+::placeholder
+{
+    color:grey;
+ 
+}
+:-ms-input-placeholder {
+  color:grey;
+}
+::-ms-input-placeholder { 
+  color:grey;
+}
+.amount
+{
+    width:30%;
+    height: 40px;
+   color:white;
+   font-family: sans-serif;
+   font-size:20px;
+   background-color: dodgerblue;
+   border:none;
+}
+.already-register
+{
+    background-color:yellow;
+    border:none;
+    height:40px;
+    width:150px;
+    color:black;
+    font-size:20px;
+    position: relative;
+   margin-top:18%;
+    border-radius: 10px;
+    float: left;
+    margin-left: 15px;
+}
+.result
+{
+    background-color:yellow;
+    border:none;
+    height:40px;
+    width:150px;
+    color:black;
+    font-size:20px;
+  position: absolute;
+    border-radius: 10px;
+bottom: 5%;
+left:28%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
